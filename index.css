@@ -1,0 +1,301 @@
+@font-face {
+    font-family: "Comfortaa-VariableFont_wght";
+    src: url("Comfortaa/Comfortaa-VariableFont_wght.ttf") format("truetype");
+}
+/************************************************************/
+/*************************Menu*******************************/
+.menu {
+    background-color: rgb(56, 56, 56);
+    text-align: center;
+    font-family: "Comfortaa-VariableFont_wght";
+    background-image: url(logo2.png);
+    background-repeat: no-repeat;
+    background-position-x: 13%;
+    background-position-y: center;
+    background-size: 7%;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.menu li {
+    display: inline-block;
+}
+.menu a {
+    display: block;
+    width: 80px;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(56, 56, 56);
+    color: white;
+}
+.menu a:hover {
+    background-color: rgb(22, 22, 22);
+}
+.login{
+    margin-left: 1400px;
+    margin-top: -50px;
+    color: white;
+}
+/************************************************************/
+/*************************Bulle tchat************************/
+.tchat{
+    margin-bottom: -58px;
+    margin-left: 1403px;
+}
+#cercle {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background: rgb(22, 42, 131);
+    margin-left: 1400px;
+}
+/************************************************************/
+/************************************************************/
+body{
+    background-color: rgb(78, 153, 238);
+    background-image: url(monsieur.png);
+    background-repeat: no-repeat;
+    background-position-x: 30px;
+    background-position-y: 50px;
+    background-size: 23.5%;
+    }
+}
+.logo {
+    padding-top: 1700px;
+}
+.ph1{
+    text-align: center;
+    color: white;
+    font-family: "Comfortaa-VariableFont_wght";
+    font-size: 30px;
+    font-weight: normal;
+}
+
+/************************************************************/
+/***************************Bouton***************************/
+.bouton{
+    text-decoration: none;
+    border: 3px solid white;
+    border-radius: 10px;
+    color: white;
+    font-family: "Comfortaa-VariableFont_wght";
+    font-weight: bold;
+    background-color: rgb(233, 140, 0);
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
+.bouton:hover{
+    background-color: rgb(194, 133, 0);
+}
+/************************************************************/
+/************************************************************/
+
+.projects{
+    font-family: "Comfortaa-VariableFont_wght";
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-color: white;
+}
+
+/************************************************************/
+/**************************Tableau1**************************/
+.Tableau1{
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 75px;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-family: "Comfortaa-VariableFont_wght";
+    background-color: rgb(78, 153, 238);
+    color: white;
+    line-height: 1.5;
+    font-weight: normal;
+    text-align: left;
+}
+.titretableau{
+    padding-top: 40px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    font-weight: normal;
+}
+/************************************************************/
+/************************************************************/
+
+.Innovative{
+    font-family: "Comfortaa-VariableFont_wght";
+    font-weight: normal;
+    font-size: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: -8px;
+    background-color: white;
+}
+
+/************************************************************/
+/***************************Sponsor**************************/
+.miles{
+    background-color: rgb(228, 228, 228);
+    padding-left: 280px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-left: -8px;
+}
+.apptruck{
+    background-color: rgb(228, 228, 228);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-left: -8px;
+}
+.spectrum{
+    background-color: rgb(228, 228, 228);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-left: -8px;
+}
+.knowit{
+    background-color: rgb(228, 228, 228);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-left: -8px;
+}
+.hatchery{
+    background-color: rgb(228, 228, 228);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-left: -8px;
+}
+.fwd{
+    background-color: rgb(228, 228, 228);
+    padding-left: 30px;
+    padding-right: 294px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.product{
+    background-color: rgb(228, 228, 228);
+    margin-top: -5px;
+    margin-left: -23px;
+    margin-right: -8px;
+    padding-left: 630px;
+    padding-right: 660px;
+    padding-bottom: 40px;
+}
+/************************************************************/
+/************************************************************/
+.boutonbp{
+    padding-bottom: 100px;
+    padding-top: 50px;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -4px;
+    background-color: white;
+}
+.bouton2{
+    text-decoration: none;
+    border: 3px solid white;
+    border-radius: 10px;
+    color: white;
+    font-family: "Comfortaa-VariableFont_wght";
+    font-weight: bold;
+    background-color: rgb(17, 76, 143);
+    margin-bottom: 15px;
+    margin-left: 500px;
+    padding-top: 15px;
+    padding-right: 40px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    text-align: center;
+}
+.bouton2:hover{
+    background-color: rgb(194, 133, 0);
+}
+.bouton3{
+    text-decoration: none;
+    border: 3px solid white;
+    border-radius: 10px;
+    color: white;
+    font-family: "Comfortaa-VariableFont_wght";
+    font-weight: bold;
+    background-color: rgb(17, 76, 143);
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 55px;
+    padding-bottom: 15px;
+    padding-left: 55px;
+    text-align: center;
+}
+.bouton3:hover{
+    background-color: rgb(194, 133, 0);
+}
+.bouton4{
+    text-decoration: none;
+    border: 3px solid white;
+    border-radius: 10px;
+    color: white;
+    font-family: "Comfortaa-VariableFont_wght";
+    font-weight: bold;
+    background-color: rgb(233, 140, 0);
+    margin-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    text-align: center;
+    width: 600px;
+}
+.bouton4:hover{
+    background-color: rgb(194, 133, 0);
+}
+/************************************************************/
+/************************************************************/
+.menu2{
+    font-family: "Comfortaa-VariableFont_wght";
+    background-color: rgb(56, 56, 56);
+    margin-top: 0px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+.menu2 a{
+    display: block;
+    width: 110px;
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+
+}
+.menu2 li {
+    display: inline-block;
+}
+/************************************************************/
+/************************************************************/
+h6{
+    color: white;
+    margin-left: 1420px;
+    margin-top: -25px;
+    margin-bottom: -10px;
+    font-style: normal;
+}
