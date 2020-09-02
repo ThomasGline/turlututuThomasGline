@@ -35,6 +35,9 @@
 .login{
     margin-left: 350px;
     margin-right: -200px;
+    background-image: url(image/login.png);
+    background-repeat: no-repeat;
+    background-position-y: center;
 }
 /************************************************************/
 /*************************Bulle tchat************************/
